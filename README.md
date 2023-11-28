@@ -1,1 +1,1 @@
-I learn (Angular)[https://angular.io/tutorial] through these tutorials.
+I learn [Angular](https://angular.io/tutorial) through these tutorials.
